@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-labelledby="title desc">
+  <title id="title">Prosmart</title><desc id="desc">Prosmart Smart Living, Simplified</desc>
+  <rect width="560" height="440" rx="34" fill="#113f5d"/>
+  <g fill="none" stroke="#58d6eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 163 280 40l164 123M150 128l80-72M132 179v103l61 61h185V179"/>
+    <path d="M280 343v-88l-101-101M338 343V254l-101-101"/>
+    <path d="M132 178h-46v57m46-11H86v67m46-24H86v76"/>
+    <path d="M423 154h42v189h-87M448 103q35-33 70 0M461 116q22-20 44 0M474 129q9-8 18 0"/>
+  </g>
+  <g fill="#113f5d" stroke="#58d6eb" stroke-width="5">
+    <circle cx="86" cy="178" r="11"/><circle cx="86" cy="235" r="11"/><circle cx="86" cy="291" r="11"/><circle cx="86" cy="343" r="11"/>
+    <circle cx="179" cy="154" r="11"/><circle cx="237" cy="153" r="11"/><circle cx="280" cy="255" r="11"/><circle cx="338" cy="254" r="11"/>
+    <circle cx="378" cy="343" r="11"/><circle cx="465" cy="154" r="11"/>
+  </g>
+  <circle cx="115" cy="178" r="7" fill="#58d6eb"/><circle cx="258" cy="343" r="7" fill="#58d6eb"/>
+  <text x="280" y="392" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="middle" letter-spacing="3">PROSMART</text>
+  <text x="280" y="420" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="middle" letter-spacing="1.5">Smart Living, Simplified</text>
+</svg>
